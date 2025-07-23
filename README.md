@@ -82,7 +82,7 @@ ranges:
 - .inf
 - .inf
 ```
-## Its Publishing the Distance from -180 to +180 i.e. 360* so now we can get the distances from it as (r,theta)
+Its Publishing the Distance from -180 to +180 i.e. 360* so now we can get the distances from it as (r,theta)
 We can try to convert into cartesian co-ordiantes and plot it into a ,map.
 
 
